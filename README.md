@@ -15,7 +15,8 @@ mvn clean install
 ```
 
 ## Reporting
-Test run using Docker is screen recorded and uploaded in this project as APITestRunUsingDocker.mov. Feel free to watch it.
+
+Video of the docker test run: https://www.loom.com/share/2a90e20b96dc4d09aaedfe87ce9f0435?sid=f6af6d8f-6233-4966-ac1f-3224fc6a98f3
 
 ![picture](src/test/resources/Cucumber.png)
 ## To Do
